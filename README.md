@@ -1,6 +1,6 @@
 ## Olá! eu sou Lucas Duarte 👋
 
-- 💻 Estudante de Ciência da Computação
+- 💻 Estudante de Ciência da Computação - 2º Semestre
 - 📖 Estudando Python, HTML, CSS e JS
 - 📧 Contate-me no e-mail: lucasduarte-tec@gmail.com
 - 😄 Pronomes: ele/dele
