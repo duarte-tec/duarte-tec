@@ -8,12 +8,12 @@
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=duarte-tec&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarte-tec&size_weight=0.5&count_weight=1.0&layout=compact&theme=github_dark&hide_border=true&count_private=true" />
   <p>
-    <img src="https://img.shields.io/badge/python-5499EB?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank">
+    <img src="https://img.shields.io/badge/python-5499EB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/html5-5499EB?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/css3-5499EB?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
-    <img src="https://img.shields.io/badge/javascript-5499EB?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank">
+    <img src="https://img.shields.io/badge/javascript-5499EB?style=for-the-badge&logo=javascript&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/Windows-5499EB?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-5499EB?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-5499EB?style=for-the-badge&logo=linux&logoColor=white" target="_blank">
   </p> 
 </div>
 
