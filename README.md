@@ -2,7 +2,7 @@
 
 - 💻 Estudante de Ciência da Computação – 2º Semestre
 - 📖 Estudando Python, HTML, CSS e JS
-- 📫 Contate-me no e-mail: lucasduarte-tec@gmail.com
+- 📫 Contate-me no e-mail: lucasduarte.tec@gmail.com
 
 <div align="center">
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=duarte-tec&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
@@ -22,7 +22,7 @@
   <p>
     <a href="https://twitter.com/SAMSEPlOL" target="_blank"><img height="25px" src="https://img.shields.io/badge/Twitter-5499EB?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <a href="https://discord.com/users/302771366124584960" target="_blank"><img height="25px" src="https://img.shields.io/badge/Discord-5499EB?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="mailto:lucasduarte-tec@gmail.com" target="_blank"><img height="25px" src="https://img.shields.io/badge/-Gmail-5499EB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="mailto:lucasduarte.tec@gmail.com" target="_blank"><img height="25px" src="https://img.shields.io/badge/-Gmail-5499EB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/lucasduartetec/" target="_blank"><img height="25px" src="https://img.shields.io/badge/LinkedIn-5499EB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </p> 
 </div>
