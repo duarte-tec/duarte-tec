@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=2000&color=5499EB&vCenter=true&random=false&width=435&height=35&lines=Ol%C3%A1!+Eu+sou+Lucas+Duarte+%F0%9F%91%8B)]
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=2000&color=5499EB&vCenter=true&random=false&width=435&height=35&lines=Ol%C3%A1!+Eu+sou+Lucas+Duarte+%F0%9F%91%8B)
 
 - 💻 Estudante de Ciência da Computação – 2º Semestre
 - 📖 Estudando Python, HTML, CSS e JS
