@@ -3,7 +3,6 @@
 - 💻 Estudante de Ciência da Computação – 2º Semestre
 - 📖 Estudando Python, HTML, CSS e JS
 - 📫 Contate-me no e-mail: lucasduarte-tec@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=duarte-tec&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
