@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify%2BSans&weight=900&pause=1000&vCenter=true&random=false&width=435&height=22&lines=Ol%C3%A1!+eu+sou+Lucas+Duarte+%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify%2BSans&weight=900&pause=1000&color=5499EB&vCenter=true&random=false&width=435&height=22&lines=Ol%C3%A1!+eu+sou+Lucas+Duarte+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 💻 Estudante de Ciência da Computação – 2º Semestre
 - 📖 Estudando Python, HTML, CSS e JS
@@ -13,19 +13,19 @@
 <br>  
 <div align="center">
   
-![Python](https://img.shields.io/badge/python-2E7FAB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-2E7FAB?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-2E7FAB?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-2E7FAB?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Windows](https://img.shields.io/badge/Windows-2E7FAB?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-2E7FAB?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-5499EB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-5499EB?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-5499EB?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-5499EB?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Windows](https://img.shields.io/badge/Windows-5499EB?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-5499EB?style=for-the-badge&logo=linux&logoColor=black)
 </div>
 
   ##
 <div style="display: inline_block" align="center">
-  <a href="https://twitter.com/SAMSEPlOL" target="_blank"><img src="https://img.shields.io/badge/Twitter-2E7FAB?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/302771366124584960" target="_blank"><img src="https://img.shields.io/badge/Discord-2E7FAB?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="mailto:lucasduarte-tec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-2E7FAB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/lucasduartetec/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2E7FAB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/SAMSEPlOL" target="_blank"><img src="https://img.shields.io/badge/Twitter-5499EB?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/302771366124584960" target="_blank"><img src="https://img.shields.io/badge/Discord-5499EB?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="mailto:lucasduarte-tec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-5499EB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/lucasduartetec/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-5499EB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
