@@ -15,7 +15,7 @@
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarte-tec&size_weight=0.5&count_weight=1.0&layout=compact&theme=github_dark&hide_border=true&count_private=true" />
 </div>
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=200&color=5499EB&vCenter=true&random=false&width=435&height=30&lines=Ferramentas+e+Linguagens)<img width="170" height="50%" align="right" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif">
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=200&color=5499EB&vCenter=true&random=false&width=435&height=30&lines=Ferramentas+e+Linguagens)<img width="180" height="50%" align="right" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif">
 
 <div align="center">
     <p>
