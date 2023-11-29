@@ -19,18 +19,18 @@
 
 <div align="center">
     <p>
-    <img height="25px" src="https://img.shields.io/badge/python-5499EB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
-    <img height="25px" src="https://img.shields.io/badge/html5-5499EB?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
-    <img height="25px" src="https://img.shields.io/badge/css3-5499EB?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
-    <img height="25px" src="https://img.shields.io/badge/javascript-5499EB?style=for-the-badge&logo=javascript&logoColor=white" target="_blank">
-    <img height="25px" src="https://img.shields.io/badge/GitHub-5499EB?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-    <img height="25px" src="https://img.shields.io/badge/GIT-5499EB?style=for-the-badge&logo=git&logoColor=white" target="_blank">
-    <br>
-    <img height="25px" src="https://img.shields.io/badge/VS_Code-5499EB?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
-    <img height="25px" src="https://img.shields.io/badge/Windows-5499EB?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
-    <img height="25px" src="https://img.shields.io/badge/Linux-5499EB?style=for-the-badge&logo=linux&logoColor=white" target="_blank">
-  </p> 
-  <p>
+      <img height="25px" src="https://img.shields.io/badge/python-5499EB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
+      <img height="25px" src="https://img.shields.io/badge/html5-5499EB?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+      <img height="25px" src="https://img.shields.io/badge/css3-5499EB?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
+      <img height="25px" src="https://img.shields.io/badge/javascript-5499EB?style=for-the-badge&logo=javascript&logoColor=white" target="_blank">
+      <img height="25px" src="https://img.shields.io/badge/GitHub-5499EB?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+      <img height="25px" src="https://img.shields.io/badge/GIT-5499EB?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+    </p> 
+    <p>
+      <img height="25px" src="https://img.shields.io/badge/VS_Code-5499EB?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
+      <img height="25px" src="https://img.shields.io/badge/Windows-5499EB?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
+      <img height="25px" src="https://img.shields.io/badge/Linux-5499EB?style=for-the-badge&logo=linux&logoColor=white" target="_blank">
+    </p>
 </div>
 
 ##
