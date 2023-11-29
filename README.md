@@ -1,5 +1,3 @@
-<img width="200" height="50%" align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
-
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=2000&color=5499EB&vCenter=true&random=false&width=435&height=35&lines=Ol%C3%A1!+Eu+sou+Lucas+Duarte+%F0%9F%91%8B)
 
 - 💻 Estudante de Ciência da Computação – 2º Semestre
@@ -12,8 +10,6 @@
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=duarte-tec&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarte-tec&size_weight=0.5&count_weight=1.0&layout=compact&theme=github_dark&hide_border=true&count_private=true" />
 </div>
-
-<img align="right" width="200" height="50%" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif">
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=200&color=5499EB&vCenter=true&random=false&width=435&height=30&lines=Ferramentas+e+Linguagens)](https://git.io/typing-svg)
 
