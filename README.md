@@ -4,14 +4,14 @@
 - 📖 Atualmene estudando Python, HTML, CSS e JS
 - 📫 Contate-me no e-mail: lucasduarte.tec@gmail.com
   
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=200&color=5499EB&vCenter=true&random=false&width=435&height=30&lines=Meu+Status)](https://git.io/typing-svg)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=200&color=5499EB&vCenter=true&random=false&width=435&height=30&lines=Meu+Status)
 
 <div align="center">
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=duarte-tec&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarte-tec&size_weight=0.5&count_weight=1.0&layout=compact&theme=github_dark&hide_border=true&count_private=true" />
 </div>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=200&color=5499EB&vCenter=true&random=false&width=435&height=30&lines=Ferramentas+e+Linguagens)](https://git.io/typing-svg)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=200&color=5499EB&vCenter=true&random=false&width=435&height=30&lines=Ferramentas+e+Linguagens)
 
 <div align="center">
     <p>
