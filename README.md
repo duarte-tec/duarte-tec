@@ -1,6 +1,6 @@
 <div align="left">
   
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=2000&color=5499EB&vCenter=true&random=false&width=435&height=35&lines=Ol%C3%A1!+Eu+sou+Lucas+Duarte+%F0%9F%91%8B) <img width="200" height="50%" align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=2000&color=5499EB&vCenter=true&random=false&width=435&height=35&lines=Ol%C3%A1!+Eu+sou+Lucas+Duarte+%F0%9F%91%8B) <img width="170px" height="50%" align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 - 💻 Estudante de Ciência da Computação – 2º Semestre
 - 📖 Atualmene estudando Python, HTML, CSS e JS
